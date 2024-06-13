@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+pandas_datareader
+matplotlib
+seaborn
+jupyter
+tables
+openpyxl
+sympy
+pyomo
+amplpy
+ipykernel
